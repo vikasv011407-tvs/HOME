@@ -6,17 +6,19 @@
 }
 
 body{
-    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/023/132/382/small/black-leather-sofa-with-pillows-and-light-around-on-a-black-wall-interior-living-room-with-the-blank-mockup-ai-generated-photo.jpg);
+    background-image: url(https://img.magnific.com/free-photo/armchair-green-living-room-with-copy-space_43614-910.jpg?semt=ais_hybrid&w=740&q=80);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
     display: flex;
+    
 }
 
 .container{
 
     margin-top: 100px;
-    margin-left: 120px;
+    margin-left: 250px;
+    margin-top: 200px;
     
 }
 
