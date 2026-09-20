@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+
+}
+
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/023/132/382/small/black-leather-sofa-with-pillows-and-light-around-on-a-black-wall-interior-living-room-with-the-blank-mockup-ai-generated-photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+}
+
+.container{
+
+    margin-top: 100px;
+    margin-left: 120px;
+    
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    color: white;
+    
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    letter-spacing: 0.6px;
+}
+
+button{
+   width: 180px;
+   height: 55px;
+   background-color: white;
+   text-align: center;
+   padding: 20px;
+   border-radius: 10px;
+}
+
+.button-2{
+      width: 180px;
+   height: 15px;
+   /* background-color: white; */
+   text-align: center;
+   padding: 20px;
+   border-radius: 10px;
+   border: 1px solid white;
+   color: white;
+  display: flex;
+
+}
+.head{
+    display: flex;
+    gap: 60px;
+}
